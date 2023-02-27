@@ -1,5 +1,5 @@
 plugins {
-    id("com.github.johnrengelman.shadow") version "7.+"
+    id("com.github.johnrengelman.shadow") version "8.+"
     `platform-publishing`
 }
 
