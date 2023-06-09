@@ -47,7 +47,7 @@ dependencies {
         exclude(module = "fabric-api")
     }
 
-    modImplementation("com.terraformersmc:modmenu:4.+") {
+    modImplementation("com.terraformersmc:modmenu:7.+") {
         exclude(module = "fabric-api")
     }
 
